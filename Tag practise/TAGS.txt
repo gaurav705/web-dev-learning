@@ -1,0 +1,18 @@
+ 1) Quotation tag
+
+ 2) Citation tag
+  a) blockqoute
+  b) Q
+  c) cite
+  d) address
+  e) abbrebriation
+
+3) how to add a favicon?
+
+
+
+Rowspan
+colspan
+Rowgroup
+colgroup
+Caption
